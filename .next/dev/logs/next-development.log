@@ -1,0 +1,40 @@
+{"timestamp":"00:00:00.791","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:22.579","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:07:55.662","source":"Server","level":"LOG","message":"✓ Compiled in 17ms"}
+{"timestamp":"00:07:57.810","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
+{"timestamp":"00:08:59.689","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:11:13.819","source":"Server","level":"LOG","message":"✓ Compiled in 7ms"}
+{"timestamp":"00:11:18.695","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
+{"timestamp":"00:12:58.700","source":"Server","level":"LOG","message":"✓ Compiled in 16ms"}
+{"timestamp":"00:13:28.873","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:14:46.135","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:15:42.958","source":"Server","level":"LOG","message":"✓ Compiled in 19ms"}
+{"timestamp":"00:15:48.427","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:15:48.815","source":"Browser","level":"ERROR","message":"./app/globals.css:39:2\nError: Parsing CSS source code failed\n  37 | }\n  38 |\n> 39 | ..icone-imagem {\n     |  ^\n  40 |   width: 200px;\n  41 |   height: 200px;\n  42 |   object-fit: contain;\n\nExpected identifier in class selector, got Delim('.')\n\nGenerated code of PostCSS transform of file content of app/globals.css:\n./app/globals.css:39:2\n  37 | }\n  38 |\n> 39 | ..icone-imagem {\n     |  ^\n  40 |   width: 200px;\n  41 |   height: 200px;\n  42 |   object-fit: contain;\n\nImport trace:\n  Client Component Browser:\n    ./app/globals.css [Client Component Browser]\n    ./app/layout.js [Server Component] "}
+{"timestamp":"00:15:48.816","source":"Server","level":"ERROR","message":"[browser] \"./app/globals.css:39:2\\nError: Parsing CSS source code failed\\n  37 | }\\n  38 |\\n> 39 | ..icone-imagem {\\n     |  ^\\n  40 |   width: 200px;\\n  41 |   height: 200px;\\n  42 |   object-fit: contain;\\n\\nExpected identifier in class selector, got Delim('.')\\n\\nGenerated code of PostCSS transform of file content of app/globals.css:\\n./app/globals.css:39:2\\n  37 | }\\n  38 |\\n> 39 | ..icone-imagem {\\n     |  ^\\n  40 |   width: 200px;\\n  41 |   height: 200px;\\n  42 |   object-fit: contain;\\n\\nImport trace:\\n  Client Component Browser:\\n    ./app/globals.css [Client Component Browser]\\n    ./app/layout.js [Server Component]\" \"\""}
+{"timestamp":"00:16:17.945","source":"Server","level":"LOG","message":"✓ Compiled in 4ms"}
+{"timestamp":"00:16:36.863","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:16:39.236","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:16:50.134","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:16:52.015","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:16:53.308","source":"Server","level":"LOG","message":"✓ Compiled in 4ms"}
+{"timestamp":"00:17:05.444","source":"Server","level":"LOG","message":"✓ Compiled in 10ms"}
+{"timestamp":"00:17:14.254","source":"Server","level":"LOG","message":"✓ Compiled in 3ms"}
+{"timestamp":"00:17:16.151","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
+{"timestamp":"00:17:22.257","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"00:18:52.012","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
+{"timestamp":"00:18:58.072","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
+{"timestamp":"00:20:47.652","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
+{"timestamp":"00:20:49.991","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
+{"timestamp":"00:20:57.489","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
+{"timestamp":"00:20:59.305","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
+{"timestamp":"00:21:04.315","source":"Server","level":"LOG","message":"✓ Compiled in 21ms"}
+{"timestamp":"00:21:29.587","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
+{"timestamp":"00:21:33.831","source":"Server","level":"LOG","message":"✓ Compiled in 7ms"}
+{"timestamp":"00:21:39.084","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
+{"timestamp":"00:21:42.894","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
+{"timestamp":"00:22:04.760","source":"Server","level":"LOG","message":"✓ Compiled in 5ms"}
+{"timestamp":"00:22:07.172","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
+{"timestamp":"00:22:14.411","source":"Server","level":"LOG","message":"✓ Compiled in 6ms"}
+{"timestamp":"00:22:17.806","source":"Server","level":"LOG","message":"✓ Compiled in 8ms"}
+{"timestamp":"00:22:21.169","source":"Server","level":"LOG","message":"✓ Compiled in 18ms"}
